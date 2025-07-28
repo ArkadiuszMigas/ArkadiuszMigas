@@ -10,7 +10,7 @@
 
 ### Frontend Developer  
 **Systemy Przetwarzania i Integracji Danych sp. z o.o.**  
-📍 Rybnik, Poland | 🗓️ 01/2024 – 04/2025  
+📍 Rybnik, Poland | 🗓️ 01/2024 – 05/2025  
 - Developed features in an Angular-based web app  
 - Integrated frontend with backend services  
 - Practiced GitFlow and participated in team-based development  
